@@ -1,0 +1,8 @@
+# Xcode 7
+*.gcda
+*.gcno
+*.xcworkspace/xcshareddata/*.xccheckout
+*.xcworkspace/xcshareddata/*.xcscmblueprint
+
+# CocoaPods
+Pods/
